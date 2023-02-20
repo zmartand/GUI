@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="palantir.remoting2.pkcs1.reader.bouncy.castle" type="repository">
+    <properties maven-id="com.palantir.remoting2:pkcs1-reader-bouncy-castle:2.6.3" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/palantir/remoting2/pkcs1-reader-bouncy-castle/2.6.3/pkcs1-reader-bouncy-castle-2.6.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/palantir/remoting2/ssl-config/2.6.3/ssl-config-2.6.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.6.7/jackson-databind-2.6.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.6.0/jackson-annotations-2.6.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.6.7/jackson-core-2.6.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.54/bcpkix-jdk15on-1.54.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk15on/1.54/bcprov-jdk15on-1.54.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

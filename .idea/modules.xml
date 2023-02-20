@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GUIBlockchainCliente/GUI Cliente.zip_expanded/GUI Cliente.zip_expanded.iml" filepath="$PROJECT_DIR$/GUIBlockchainCliente/GUI Cliente.zip_expanded/GUI Cliente.zip_expanded.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUIBlockchainServidor/GUI Servidor.zip_expanded/GUI Servidor.zip_expanded.iml" filepath="$PROJECT_DIR$/GUIBlockchainServidor/GUI Servidor.zip_expanded/GUI Servidor.zip_expanded.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUIBlockchain/GUIBlockchain/GUIBlockchain.iml" filepath="$PROJECT_DIR$/GUIBlockchain/GUIBlockchain/GUIBlockchain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GUIBlockchainTransacciones/GUIBlockchainTransacciones/GUIBlockchainTransacciones.iml" filepath="$PROJECT_DIR$/GUIBlockchainTransacciones/GUIBlockchainTransacciones/GUIBlockchainTransacciones.iml" />
+    </modules>
+  </component>
+</project>
